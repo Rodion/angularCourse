@@ -1,4 +1,6 @@
 /node_modules
+/.angular
+angularCourse/.angular
 angularCourse/node_modulesgit 
 angularCourse/node_modules/@angular/cli/LICENSE
 angularCourse/node_modules/@angular/cli/bin/bootstrap.js
@@ -8322,3 +8324,4 @@ angularCourse/node_modules/yargs-parser/build/lib/string-utils.js
 angularCourse/node_modules/yargs-parser/build/lib/tokenize-arg-string.js
 angularCourse/node_modules/yargs-parser/build/lib/yargs-parser-types.js
 angularCourse/node_modules/yargs-parser/build/lib/yargs-parser.js
+README.md
